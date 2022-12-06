@@ -9,11 +9,12 @@
        "description": "Intro",
        "mediaUrl": "https://i.imgur.com/zy5KCiJ.png",
        "source": "image",
-       "link": null
+       "link": "https://www.reputable.health/"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": " https://i.imgur.com/LpdWRy1.jpghttps://i.imgur.com/LpdWRy1.jpg",        "source": "image",
-       "link": null  },
+       "mediaUrl": " https://i.imgur.com/LpdWRy1.jpghttps://i.imgur.com/LpdWRy1.jpg",        
+       "source": "image",
+       "link":"https://www.reputable.health/"  },
 ],
 "deleted":false, 
 "primaryColor":"#0b035f",
@@ -22,6 +23,7 @@
 "snapshotId":"https://snapshot.org/#/rept.eth",
 "logo":"https://i.imgur.com/4eSlCd1.jpg",
 "telegramLink":null,
+"callToActionLink": null
 "discordLink":"@reputablepenguin",
 "website":"https://www.reputable.health/",
 "tokenDescription":null,
