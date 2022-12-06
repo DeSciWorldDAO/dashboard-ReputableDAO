@@ -14,21 +14,19 @@
        "description": "Intro",
        "mediaUrl": " https://i.imgur.com/LpdWRy1.jpghttps://i.imgur.com/LpdWRy1.jpg",        
        "source": "image",
-       "link":"https://www.reputable.health/"  },
-],
-"deleted":false, 
+       "link":"https://www.reputable.health/"}],
+"deleted":false,
 "primaryColor":"#0b035f",
 "twitterHandle":"https://twitter.com/ReputableDAO",
 "coingeckoId":null,
 "snapshotId":"https://snapshot.org/#/rept.eth",
 "logo":"https://i.imgur.com/4eSlCd1.jpg",
 "telegramLink":null,
-"callToActionLink": null
-"discordLink":"@reputablepenguin",
+"callToActionLink": null,
+"discordLink":null,
 "website":"https://www.reputable.health/",
 "tokenDescription":null,
 "tokenTradeLink":null,
-
 "tags":["Ecosystems", "NFTs", "Data Storage"]
   
 }
